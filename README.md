@@ -1,2 +1,2 @@
 # JavaDrums
-JavaScript Jam Kit
+JavaScript Keyboard Jam Kit
